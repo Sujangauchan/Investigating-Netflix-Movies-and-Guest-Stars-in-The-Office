@@ -7,7 +7,7 @@ Apply the foundational skills in Introduction to Python and Intermediate Python 
 
 This is a guided project from Datacamp to apply the skills learned in the courses "Introduction to Python" and "Intermediate Python". In this project I will conduct an exploratory data analysis on the Netflix dataset by manipulating the data to get insights from the data through visualization using Matplotlib.
 
-# Tasks performed in the project:
+# Tasks performed in the project
 
 1. Loading friend's data into a dictionary
 2. Creating a DataFrame from a dictionary
